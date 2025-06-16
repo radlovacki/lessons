@@ -26,4 +26,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material
+      - run: pip install mkdocs-minify-plugin
+      - run: pip install mkdocs-redirects
+      - run: pip install mkdocs-glightbox
       - run: mkdocs gh-deploy --force
