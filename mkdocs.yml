@@ -1,4 +1,5 @@
 site_name: Lessons
+site_url: https://radlovacki.github.io/lessons/
 site_author: Velimir Radlovački
 theme:
   name: material
@@ -23,13 +24,21 @@ theme:
     - content.code.copy
     - content.code.annotate
     - content.tabs.link
+    - header.autohide
+    - navigation.tabs
   font:
     text: Roboto
     code: Roboto Mono
 copyright: Copyright &copy; 2025 Velimir Radlovački
 
 nav:
-  - Home: index.md
+  - Почетна: index.md
+  - Програмирање I:
+    - Увод:
+      - Програмски језици: prog_1/01/index.md
+  - Програмирање II:
+    - Поглавље 1:
+      - Лекција 1: prog_2/01/index.md
 
 markdown_extensions:
   - attr_list
@@ -97,6 +106,7 @@ extra:
       link: https://www.youtube.com/c/VelimirRadlovački
     - icon: fontawesome/brands/twitter
       link: https://x.com/radlovacki
+  generator: false
 
 extra_javascript:
   - js/mathjax.js
