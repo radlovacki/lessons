@@ -1,6 +1,6 @@
-site_name: Lessons
+site_name: Странице предмета
 site_url: https://radlovacki.github.io/lessons/
-site_author: Velimir Radlovački
+site_author: Велимир Радловачки
 theme:
   name: material
   palette:
@@ -19,7 +19,7 @@ theme:
   favicon: images/icon.svg
   icon:
     logo: fontawesome/solid/graduation-cap
-#  language: sr
+  language: sr
   features:
     - content.code.copy
     - content.code.annotate
@@ -33,17 +33,36 @@ copyright: Copyright &copy; 2025 Velimir Radlovački
 
 nav:
   - Почетна: index.md
-  - Програмирање I:
+  - Prog1:
     - Увод:
       - Програмски језици: prog_1/01/index.md
       - Поделе програмских језика: prog_1/01/podele.md
-  - Програмирање II:
+  - Prog2:
     - Поглавље 1:
       - Лекција 1: prog_2/01/index.md
+  - Prog3:
+    - Поглавље 1:
+      - Лекција 1: prog_3/01/index.md
+  - Prog4:
+    - Поглавље 1:
+      - Лекција 1: prog_4/01/index.md
+  - CS:
+    - Поглавље 1:
+      - Лекција 1: rii/01/index.md
+  - WebDes:
+    - Увод у веб дизајн:
+      - Увод: webd/01/index.md
+  - WebDev3:
+    - Поглавље 1:
+      - Лекција 1: webp_3/01/index.md
+  - WebDev4:
+    - Поглавље 1:
+      - Лекција 1: webp_4/01/index.md
 
 markdown_extensions:
   - attr_list
   - md_in_html
+  - tables
   - pymdownx.snippets
   - pymdownx.highlight:
       anchor_linenums: true
