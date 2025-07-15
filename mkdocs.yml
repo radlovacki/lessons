@@ -33,31 +33,36 @@ copyright: Copyright &copy; 2025 Velimir Radlovački
 
 nav:
   - Почетна: index.md
-  - Prog1:
+  - Computer Science:
+    - Добродошли: compsci/index.md
+    - Поглавље 1:
+      - Лекција 1: compsci/01/index.md
+  - Programming 1:
+    - Добродошли: prog1/index.md
     - Увод:
-      - Програмски језици: prog_1/01/index.md
-      - Поделе програмских језика: prog_1/01/podele.md
-  - Prog2:
+      - Програмски језици: prog1/01/index.md
+      - Поделе програмских језика: prog1/01/podele.md
+  - Programming 3:
+    - Добродошли: prog3/index.md
     - Поглавље 1:
-      - Лекција 1: prog_2/01/index.md
-  - Prog3:
-    - Поглавље 1:
-      - Лекција 1: prog_3/01/index.md
-  - Prog4:
-    - Поглавље 1:
-      - Лекција 1: prog_4/01/index.md
-  - CS:
-    - Поглавље 1:
-      - Лекција 1: rii/01/index.md
-  - WebDes:
+      - Лекција 1: prog3/01/index.md
+  - Web Design:
+    - Добродошли: webd/index.md
     - Увод у веб дизајн:
-      - Увод: webd/01/index.md
-  - WebDev3:
+      - Развој веба и основни појмови: webd/01/razvoj_veba.md
+      - Веб технологије: webd/01/veb_tehnologije.md
+      - Веб адреса, хостинг и домен: webd/01/veb_adresa.md
+    - HTML и CSS:
+      - Дескриптивни језици: webd/02/deskriptivni_jezici.md
+      - Основни елементи у заглављу: webd/02/elementi_head.md
+  - UI UX Design:
+    - Добродошли: uiux/index.md
     - Поглавље 1:
-      - Лекција 1: webp_3/01/index.md
-  - WebDev4:
+      - Лекција 1: uiux/01/index.md
+  - Technical Documentation:
+    - Добродошли: techdoc/index.md
     - Поглавље 1:
-      - Лекција 1: webp_4/01/index.md
+      - Лекција 1: techdoc/01/index.md
 
 markdown_extensions:
   - attr_list
