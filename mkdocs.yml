@@ -35,8 +35,14 @@ nav:
   - Почетна: index.md
   - Computer Science:
     - Добродошли: compsci/index.md
-    - Поглавље 1:
-      - Лекција 1: compsci/01/index.md
+    - Рачунарство:
+      - Увод у рачунарство и информатику: compsci/01/01_uvod.md
+      - Инсторијат развоја рачунара: compsci/01/02_istorijat.md
+      - Генерације електронских рачунара: compsci/01/03_generacije.md
+      - Рачунарски систем: compsci/01/04_racunarski_sistem.md
+      - Кућиште и напајање: compsci/01/05_kuciste.md
+      - Матична плоча: compsci/01/06_maticna.md
+      - Припрема за први тест: compsci/01/07_test_1.md
   - Programming 1:
     - Добродошли: prog1/index.md
     - Увод:
@@ -61,8 +67,8 @@ nav:
       - Лекција 1: uiux/01/index.md
   - Technical Documentation:
     - Добродошли: techdoc/index.md
-    - Поглавље 1:
-      - Лекција 1: techdoc/01/index.md
+    - Техничка документација:
+      - Увод: techdoc/01/uvod.md
 
 markdown_extensions:
   - attr_list
