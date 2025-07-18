@@ -63,8 +63,10 @@ nav:
       - Основни елементи у заглављу: webd/02/elementi_head.md
   - UI UX Design:
     - Добродошли: uiux/index.md
-    - Поглавље 1:
-      - Лекција 1: uiux/01/index.md
+    - Увод у UI/UX дизајн:
+      - Разлика између UI и UX дизајна: uiux/01/01_uiux.md
+      - Значај UI/UX дизајна у дигиталном свету: uiux/01/02_znacaj.md
+      - Основни принципи и концепти UI/UX дизајна: uiux/01/03_principi.md
   - Technical Documentation:
     - Добродошли: techdoc/index.md
     - Техничка документација:
