@@ -55,9 +55,9 @@ nav:
   - Web Design:
     - Добродошли: webd/index.md
     - Увод у веб дизајн:
-      - Развој веба и основни појмови: webd/01/razvoj_veba.md
-      - Веб технологије: webd/01/veb_tehnologije.md
-      - Веб адреса, хостинг и домен: webd/01/veb_adresa.md
+      - Историјски развој Интернета и веба: webd/01/01_razvoj.md
+      - Веб технологије: webd/01/02_tehnologije.md
+      - Веб адреса, хостинг и домен: webd/01/03_adresa.md
     - HTML и CSS:
       - Дескриптивни језици: webd/02/deskriptivni_jezici.md
       - Основни елементи у заглављу: webd/02/elementi_head.md
@@ -69,8 +69,14 @@ nav:
       - Основни принципи и концепти UI/UX дизајна: uiux/01/03_principi.md
   - Technical Documentation:
     - Добродошли: techdoc/index.md
-    - Техничка документација:
-      - Увод: techdoc/01/uvod.md
+    - Елементи техничке документација:
+      - Шта је техничка документација?: techdoc/01/01_uvod.md
+      - Техничка документација и стандарди: techdoc/01/02_standardi.md
+      - Техничко писање: techdoc/01/03_pisanje.md
+      - Врсте техничко-пословних докумената: techdoc/01/04_vrste.md
+      - Кориснички и пројектно оријентисана документација: techdoc/01/05_korisnicki_projektno.md
+    - Развој софтверског пројекта:
+      - Шта је пројекат: techdoc/02/01_projekat.md
 
 markdown_extensions:
   - attr_list
