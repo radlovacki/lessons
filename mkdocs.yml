@@ -43,6 +43,7 @@ nav:
       - Кућиште и напајање: compsci/01/05_kuciste.md
       - Матична плоча: compsci/01/06_maticna.md
       - Припрема за први тест: compsci/01/07_test_1.md
+      - Процесор: compsci/01/08_procesor.md
   - Programming 1:
     - Добродошли: prog1/index.md
     - Увод:
@@ -58,15 +59,22 @@ nav:
       - Историјски развој Интернета и веба: webd/01/01_razvoj.md
       - Веб технологије: webd/01/02_tehnologije.md
       - Веб адреса, хостинг и домен: webd/01/03_adresa.md
+      - Изглед и функционалност веб сајтова: webd/01/04_izgled.md
     - HTML и CSS:
-      - Дескриптивни језици: webd/02/deskriptivni_jezici.md
-      - Основни елементи у заглављу: webd/02/elementi_head.md
+      - Дескриптивни језици: webd/02/01_deskriptivni_jezici.md
+      - Кôд едитори: webd/02/02_kod_editori.md
+      - Основни елементи HTML језика: webd/02/03_osnovni_elementi.md
+      - Структура HTML странице: webd/02/04_struktura_stranice.md
+      - Основни елементи у заглављу: webd/02/05_elementi_head.md
   - UI UX Design:
     - Добродошли: uiux/index.md
     - Увод у UI/UX дизајн:
       - Разлика између UI и UX дизајна: uiux/01/01_uiux.md
       - Значај UI/UX дизајна у дигиталном свету: uiux/01/02_znacaj.md
       - Основни принципи и концепти UI/UX дизајна: uiux/01/03_principi.md
+    - Основни принципи UI дизајна:
+      - Фонтови: uiux/03/fonts.md
+      - Принципи коришћења фонтова: uiux/03/fonts_principles.md
   - Technical Documentation:
     - Добродошли: techdoc/index.md
     - Елементи техничке документација:
@@ -149,4 +157,5 @@ extra:
 
 extra_javascript:
   - js/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
