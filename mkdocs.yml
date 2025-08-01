@@ -51,8 +51,21 @@ nav:
       - Поделе програмских језика: prog1/01/podele.md
   - Programming 3:
     - Добродошли: prog3/index.md
-    - Поглавље 1:
-      - Лекција 1: prog3/01/index.md
+    - Основни концепти објектно-оријентисаног програмирања:
+      - Увод: prog3/01/01_uvod.md
+      - Класа и објекат: prog3/01/02_klasa_objekat.md
+      - Чланови класе: prog3/01/03_clanovi_klase.md
+      - Енкапсулација: prog3/01/04_enkapsulacija.md
+      - Наслеђивање: prog3/01/05_nasledjivanje.md
+      - Полиморфизам: prog3/01/06_polimorfizam.md
+    - Програмски језик C#:
+      - Увод: prog3/02/01_uvod.md
+      - Припрема окружења и израда пројекта: prog3/02/02_okruzenje.md
+      - Метода Main, класа Program и именски простори: prog3/02/03_main.md
+      - Читање и испис података: prog3/02/04_citanje_ispis.md
+      - Вредносни типови података: prog3/02/05_vrednosni_tipovi.md
+    - Додаци:
+      - Unicode карактери: prog3/07/unicode_karakteri.md
   - Web Design:
     - Добродошли: webd/index.md
     - Увод у веб дизајн:
