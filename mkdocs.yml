@@ -44,6 +44,7 @@ nav:
       - Матична плоча: compsci/01/06_maticna.md
       - Припрема за први тест: compsci/01/07_test_1.md
       - Процесор: compsci/01/08_procesor.md
+      - Меморије: compsci/01/09_memorije.md
   - Programming 1:
     - Добродошли: prog1/index.md
     - Увод:
@@ -98,6 +99,8 @@ nav:
       - Кориснички и пројектно оријентисана документација: techdoc/01/05_korisnicki_projektno.md
     - Развој софтверског пројекта:
       - Шта је пројекат: techdoc/02/01_projekat.md
+  - Misc:
+    - Активација школског Microsoft налога: misc/copilot.md
 
 markdown_extensions:
   - attr_list
