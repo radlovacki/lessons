@@ -45,6 +45,7 @@ nav:
       - Припрема за први тест: compsci/01/07_test_1.md
       - Процесор: compsci/01/08_procesor.md
       - Меморије: compsci/01/09_memorije.md
+      - Представљање података у меморији: compsci/01/10_podaci.md
   - Programming 1:
     - Добродошли: prog1/index.md
     - Увод:
