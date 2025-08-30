@@ -101,6 +101,7 @@ nav:
     - Развој софтверског пројекта:
       - Шта је пројекат: techdoc/02/01_projekat.md
   - Misc:
+    - Добродошли: misc/index.md
     - Активација школског Microsoft налога: misc/copilot.md
 
 markdown_extensions:
