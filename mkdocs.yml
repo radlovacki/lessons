@@ -173,7 +173,6 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://x.com/radlovacki
   generator: false
-  redirect_index: true
 
 extra_javascript:
   - js/mathjax.js
