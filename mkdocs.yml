@@ -81,6 +81,7 @@ nav:
       - Основни елементи HTML језика: webd/02/03_osnovni_elementi.md
       - Структура HTML странице: webd/02/04_struktura_stranice.md
       - Основни елементи у заглављу: webd/02/05_elementi_head.md
+      - Основни елементи у телу: webd/02/06_elementi_body.md
   - UI UX Design:
     - Добродошли: uiux/index.md
     - Увод у UI/UX дизајн:
@@ -172,6 +173,7 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://x.com/radlovacki
   generator: false
+  redirect_index: true
 
 extra_javascript:
   - js/mathjax.js
