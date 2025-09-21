@@ -16,7 +16,6 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Dark mode
-  favicon: images/icon.svg
   icon:
     logo: fontawesome/solid/graduation-cap
   language: sr
@@ -75,6 +74,7 @@ nav:
       - Веб технологије: webd/01/02_tehnologije.md
       - Веб адреса, хостинг и домен: webd/01/03_adresa.md
       - Изглед и функционалност веб сајтова: webd/01/04_izgled.md
+      - Задаци за проверу знања: webd/01/05_zadaci.md
     - HTML и CSS:
       - Дескриптивни језици: webd/02/01_deskriptivni_jezici.md
       - Кôд едитори: webd/02/02_kod_editori.md
