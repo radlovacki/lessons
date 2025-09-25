@@ -65,8 +65,28 @@ nav:
       - Метода Main, класа Program и именски простори: prog3/02/03_main.md
       - Читање и испис података: prog3/02/04_citanje_ispis.md
       - Вредносни типови података: prog3/02/05_vrednosni_tipovi.md
+      - Конверзије типова: prog3/02/06_konverzije_tipova.md
+      - Референтни типови података: prog3/02/07_referentni_tipovi.md
+      - Декларација података: prog3/02/08_deklaracija_podataka.md
+      - Оператори и изрази: prog3/02/09_operatori_izrazi.md
+      - Битски оператори: prog3/02/10_bitski_operatori.md
+      - Разгранате структуре: prog3/02/11_razgranata.md
+      - Цикличне структуре: prog3/02/12_ciklicna.md
+      - Низови: prog3/02/13_nizovi.md
+      - Стрингови: prog3/02/14_string.md
+      - Листе: prog3/02/15_liste.md
+      - Енумерације: prog3/02/16_nabrojivi.md
+      - Структуре: prog3/02/17_struct.md
+      - Пренос параметара метода по вредности и референци: prog3/02/18_vrednost_referenca.md
+      - Преоптерећење метода: prog3/02/19_preopterecenje.md
+      - Фајлови и директоријуми: prog3/02/20_fajlovi_direktorijumi.md
+      - Рад са текстуалним фајловима: prog3/02/21_file_directory.md
+      - Рад са токовима: prog3/02/22_stream.md
+      - Рад са бинарним фајловима: prog3/02/23_binary.md
     - Додаци:
       - Unicode карактери: prog3/07/unicode_karakteri.md
+      - Прелазне секвенце: prog3/07/prelazne_sekvence.md
+      - Приоритет оператора: prog3/07/prioritet_operatora.md
   - Web Design:
     - Добродошли: webd/index.md
     - Увод у веб дизајн:
