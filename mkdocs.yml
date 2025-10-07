@@ -83,6 +83,7 @@ nav:
       - Рад са текстуалним фајловима: prog3/02/21_file_directory.md
       - Рад са токовима: prog3/02/22_stream.md
       - Рад са бинарним фајловима: prog3/02/23_binary.md
+      - Припрема за тест: prog3/02/99_priprema.md
     - Додаци:
       - Unicode карактери: prog3/07/unicode_karakteri.md
       - Прелазне секвенце: prog3/07/prelazne_sekvence.md
