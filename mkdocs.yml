@@ -119,6 +119,8 @@ nav:
       - Идентификација и превазилажење етичких изазова у UI/UX дизајну: uiux/02/04_prevazilazenje.md
       - Припрема за тест: uiux/02/05_priprema.md
     - Основни принципи UI дизајна:
+      - Боје: uiux/03/colors.md
+      - Принципи коришћења боја: uiux/03/colors_principles.md
       - Фонтови: uiux/03/fonts.md
       - Принципи коришћења фонтова: uiux/03/fonts_principles.md
   - Technical Documentation:
