@@ -1,24 +1,44 @@
 <!DOCTYPE html>
 <html lang="sr">
-    <head>
-        <!-- Садржај заглавља HTML документа -->
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Називи боја</title>
-        <style>
-body {
-    background-color: hsl(195, 53%, 79%);
-}
-h1 {
-    color: hsl(240, 100%, 25%);
-}
-p {
-    color: hsl(0, 100%, 27%);
-}
-        </style>
-    </head>
-     <body>
-        <h1>Наслов</h1>
-        <p>Пасус текста</p>
-    </body> 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Табеле</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<table>
+    <caption>Рачун број 12345</caption>
+    <thead>
+        <tr>
+            <th>Производ</th>
+            <th>Количина</th>
+            <th>Цена</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Јабуке</td>
+            <td>2 kg</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>Банане</td>
+            <td>1.5 kg</td>
+            <td>120</td>
+        </tr>
+        <tr>
+            <td>Поморанџе</td>
+            <td>3 kg</td>
+            <td>80</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="2">Укупно за наплату:</td>
+            <td>300</td>
+        </tr>
+    </tfoot>
+</table>
+</body>
 </html>
