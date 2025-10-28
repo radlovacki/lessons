@@ -45,6 +45,7 @@ nav:
       - Процесор: compsci/01/08_procesor.md
       - Меморије: compsci/01/09_memorije.md
       - Представљање података у меморији: compsci/01/10_podaci.md
+      - Остале интерне компоненте: compsci/01/11_interne.md
   - Programming 1:
     - Добродошли: prog1/index.md
     - Увод:
