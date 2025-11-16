@@ -109,6 +109,7 @@ nav:
       - Инлајн стилизација елемената: webd/02/08_style.md
       - Форматирање текста: webd/02/09_formatiranje.md
       - Табеле: webd/02/10_tabele.md
+      - Припрема: webd/02/priprema.md
   - UI UX Design:
     - Добродошли: uiux/index.md
     - Увод у UI/UX дизајн:
@@ -128,6 +129,7 @@ nav:
       - Фонтови: uiux/03/fonts.md
       - Принципи коришћења фонтова: uiux/03/fonts_principles.md
       - Слике и цртежи: uiux/03/images.md
+      - Припрема: webd/02/priprema.md
   - Technical Documentation:
     - Добродошли: techdoc/index.md
     - Елементи техничке документација:
