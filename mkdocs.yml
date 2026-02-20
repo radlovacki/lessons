@@ -129,6 +129,9 @@ nav:
       - Принципи коришћења фонтова: uiux/03/fonts_principles.md
       - Слике и цртежи: uiux/03/images.md
       - Припрема: webd/02/priprema.md
+    - Figma:
+      - Упознавање са интерфејсом: uiux/Figma/01.md
+      - Једноставнa login картицa: uiux/Figma/02.md
   - Technical Documentation:
     - Добродошли: techdoc/index.md
     - Елементи техничке документација:
