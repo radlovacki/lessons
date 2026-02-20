@@ -132,6 +132,7 @@ nav:
     - Figma:
       - Упознавање са интерфејсом: uiux/Figma/01.md
       - Једноставнa login картицa: uiux/Figma/02.md
+      - Auto Layout: uiux/Figma/03.md
   - Technical Documentation:
     - Добродошли: techdoc/index.md
     - Елементи техничке документација:
