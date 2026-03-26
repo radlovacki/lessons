@@ -42,7 +42,7 @@ Console.Write("Unesi kljuc: ");
 string kljuc = Console.ReadLine() ?? string.Empty;
 Console.Write("Unesi vektor: ");
 string iv = Console.ReadLine() ?? string.Empty;
-if (kljuc.Length != 8 || iv.Length != 8)
+if (if (Encoding.UTF8.GetByteCount(kljuc) != 8 || Encoding.UTF8.GetByteCount(iv) != 8))
 {
     Console.WriteLine("Greska! Kljuc i vektor moraju imati tacno 8 karaktera!");
     return;
@@ -75,7 +75,7 @@ Console.WriteLine($"Desifrovana poruka: {desifrovaniTekst}");
 стринг помоћу `Encoding.UTF8.GetString()`, добио би много нечитљивих симбола,
 па би приликом преноса кроз мрежу или записа у базу података неки бајтови могли
 бити изгубљени или погрешно интерпретирани. Base64 је начин да било које
-бинарне податке претвориш у безбедан низ од 64 карактера који се лако преносе
+бинарне податке претворишу у низ карактера из скупа од 64 дозвољена карактера
 (слова `A`-`Z`, `a`-`z`, цифре `0`-`9` и знаци `+` и `/`). Дакле, Base64 је
 у овом случају неопходан, како би безбедно користио бинарни шифрат. Кратак
 приказ тока података у овом програму изгледао би овако:
