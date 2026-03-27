@@ -149,6 +149,10 @@ nav:
     - Добродошли: ai/index.md
     - Увод у вештачку интелигенцију:
       - Шта је вештачка интелигенција?: ai/01/01_uvod.md
+  - InfoSec:
+    - Добродошли: infosec/index.md
+    - DES:
+      - .NET DES методе: infosec/des/klasa_des.md
   - Misc:
     - Добродошли: misc/index.md
     - Активација школског Microsoft налога: misc/copilot.md
