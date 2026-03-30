@@ -137,7 +137,6 @@ nav:
       - Припрема за контролни: uiux/Figma/kontrolni.md
       - Шта је прототип?: uiux/Figma/proto01.md
       - Брзо прототипирање (вежба): uiux/Figma/proto02.md
-
   - Technical Documentation:
     - Добродошли: techdoc/index.md
     - Елементи техничке документација:
@@ -151,7 +150,7 @@ nav:
   - AI:
     - Добродошли: ai/index.md
     - Увод у вештачку интелигенцију:
-      - Шта је вештачка интелигенција?: ai/01/01_uvod.md
+      - Припрема за први тест: ai/01/01_uvod.md
   - InfoSec:
     - Добродошли: infosec/index.md
     - DES:

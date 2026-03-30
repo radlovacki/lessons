@@ -12,7 +12,7 @@ hide:
 | [Рачунарство и информатика](./compsci/index.md) | [Веб дизајн](./webd/index.md)        | Веб програмирање III                                | Веб програмирање IV                                 |
 | -                                               | [Дизајн интерфејса](./uiux/index.md) | -                                                   | [Заштита информационих система](./infosec/index.md) |
 | -                                               | -                                    | [Техничка документација за ЕИТ](./techdoc/index.md) | Рачунарске мреже и интернет сервиси                 |
-| [Разно](misc/index.md)                          | -                                    | Вештачка интелигенција за ЕИТ                       |                                                     |
+| [Разно](misc/index.md)                          | -                                    | [Вештачка интелигенција за ЕИТ](./ai/index.md)      |                                                     |
 
 ![C](https://badgen.net/badge/C/MSVC/blue?icon=visualstudio)
 ![C#](https://badgen.net/badge/C%23/.NET/purple?icon=visualstudio)
