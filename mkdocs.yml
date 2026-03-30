@@ -155,7 +155,7 @@ nav:
   - InfoSec:
     - Добродошли: infosec/index.md
     - DES:
-      - .NET DES методе: infosec/des/klasa_des.md
+      - .NET DES методе: infosec/des/stringovi.md
   - Misc:
     - Добродошли: misc/index.md
     - Активација школског Microsoft налога: misc/copilot.md
