@@ -135,6 +135,9 @@ nav:
       - Auto Layout: uiux/Figma/03.md
       - Компоненте: uiux/Figma/04.md
       - Припрема за контролни: uiux/Figma/kontrolni.md
+      - Шта је прототип?: uiux/Figma/proto01.md
+      - Брзо прототипирање (вежба): uiux/Figma/proto02.md
+
   - Technical Documentation:
     - Добродошли: techdoc/index.md
     - Елементи техничке документација:
