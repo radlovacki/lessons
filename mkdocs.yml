@@ -51,6 +51,7 @@ nav:
       - Дигитални уређаји: compsci/02/01_softver.md
     - Креирање дигиталних садржаја:
       - Растерска слика и векторски цртеж: compsci/03/02_graphics.md
+      - Графички софтвер и лиценце: compsci/03/03_licence.md
   - Programming 1:
     - Добродошли: prog1/index.md
     - Увод:
