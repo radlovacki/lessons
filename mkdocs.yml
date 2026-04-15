@@ -47,6 +47,8 @@ nav:
       - Представљање података у меморији: compsci/01/10_podaci.md
       - Остале интерне компоненте: compsci/01/11_interne.md
       - Припрема за други тест: compsci/01/test_2.md
+    - Графика и веб:
+      - Припрема за тест: pripremaweb.md
   - Programming 1:
     - Добродошли: prog1/index.md
     - Увод:
