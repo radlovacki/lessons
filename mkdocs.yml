@@ -52,7 +52,7 @@ nav:
     - Креирање дигиталних садржаја:
       - Растерска слика и векторски цртеж: compsci/03/02_graphics.md
       - Графички софтвер и лиценце: compsci/03/03_licence.md
-      - Припрема за тест: pripremaweb.md
+      - Припрема за тест: compsci/pripremaweb.md
   - Programming 1:
     - Добродошли: prog1/index.md
     - Увод:
