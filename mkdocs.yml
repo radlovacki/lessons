@@ -158,6 +158,7 @@ nav:
     - Добродошли: ai/index.md
     - Увод у вештачку интелигенцију:
       - Припрема за први тест: ai/01/01_uvod.md
+      - Sentiment Analysis: ai/ml.net/sentiment.md
   - InfoSec:
     - Добродошли: infosec/index.md
     - DES:
