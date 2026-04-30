@@ -159,6 +159,7 @@ nav:
     - Увод у вештачку интелигенцију:
       - Припрема за први тест: ai/01/01_uvod.md
       - Sentiment Analysis: ai/ml.net/sentiment.md
+      - Препознавање SPAM SMS-а: ai/ml.net/spam.md
   - InfoSec:
     - Добродошли: infosec/index.md
     - DES:
