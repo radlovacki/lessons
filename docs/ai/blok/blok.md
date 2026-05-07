@@ -183,7 +183,7 @@ namespace WinFormsApp
 }
 ```
 
-### Тест примери:
+### Тест примери
 
 ![Тест пример 1](./images/text09.png)
 

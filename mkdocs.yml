@@ -160,6 +160,7 @@ nav:
       - Припрема за први тест: ai/01/01_uvod.md
       - Sentiment Analysis: ai/ml.net/sentiment.md
       - Препознавање SPAM SMS-а: ai/ml.net/spam.md
+      - Задатак за блок наставу из ПИТ: ai/blok/blok.md
   - InfoSec:
     - Добродошли: infosec/index.md
     - DES:
