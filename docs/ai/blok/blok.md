@@ -209,5 +209,3 @@ namespace WinFormsApp
 За обуку модела коришћен је ML.NET Model Builder, секција: Natural Language
 Processing, сценарио: Text Classification.
 ```
-
-## Пример 2 - Forecasting

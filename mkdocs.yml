@@ -67,6 +67,8 @@ nav:
       - Енкапсулација: prog3/01/04_enkapsulacija.md
       - Наслеђивање: prog3/01/05_nasledjivanje.md
       - Полиморфизам: prog3/01/06_polimorfizam.md
+    - Блок настава:
+      - Задатак: prog3/blok/zadatak.md
     - Програмски језик C#:
       - Увод: prog3/02/01_uvod.md
       - Припрема окружења и израда пројекта: prog3/02/02_okruzenje.md
