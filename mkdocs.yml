@@ -67,8 +67,6 @@ nav:
       - Енкапсулација: prog3/01/04_enkapsulacija.md
       - Наслеђивање: prog3/01/05_nasledjivanje.md
       - Полиморфизам: prog3/01/06_polimorfizam.md
-    - Блок настава:
-      - Задатак: prog3/blok/zadatak.md
     - Програмски језик C#:
       - Увод: prog3/02/01_uvod.md
       - Припрема окружења и израда пројекта: prog3/02/02_okruzenje.md
@@ -98,6 +96,8 @@ nav:
       - Unicode карактери: prog3/07/unicode_karakteri.md
       - Прелазне секвенце: prog3/07/prelazne_sekvence.md
       - Приоритет оператора: prog3/07/prioritet_operatora.md
+    - Блок настава:
+      - Задатак за блок наставу из ПИТ: prog3/blok/zadatak.md
   - Web Design:
     - Добродошли: webd/index.md
     - Увод у веб дизајн:
