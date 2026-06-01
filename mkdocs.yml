@@ -120,6 +120,8 @@ nav:
       - Табеле: webd/02/10_tabele.md
     - JS:
       - fetch примери: webd/js/fetch.md
+    - Блок настава:
+      - Задатак за блок наставу: webd/blok.md
   - UI UX Design:
     - Добродошли: uiux/index.md
     - Увод у UI/UX дизајн:
