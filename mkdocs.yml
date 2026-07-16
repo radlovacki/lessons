@@ -165,6 +165,11 @@ nav:
   - Misc:
     - Добродошли: misc/index.md
     - Активација школског Microsoft налога: misc/copilot.md
+  - Развој софтверских пројеката:
+    - Добродошли: softdev/index.md
+    - Процес развоја софтвера:
+      - Увод: softdev/01_proces/00_uvod.md
+      - Увод: softdev/01_proces/01_uvod.md
 
 markdown_extensions:
   - attr_list
