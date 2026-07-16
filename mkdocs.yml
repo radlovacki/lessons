@@ -96,6 +96,8 @@ nav:
       - Unicode карактери: prog3/07/unicode_karakteri.md
       - Прелазне секвенце: prog3/07/prelazne_sekvence.md
       - Приоритет оператора: prog3/07/prioritet_operatora.md
+    - Блок настава:
+      - Задатак за блок наставу из ПИТ: prog3/blok/zadatak.md
   - Web Design:
     - Добродошли: webd/index.md
     - Увод у веб дизајн:
@@ -116,6 +118,10 @@ nav:
       - Форматирање текста: webd/02/09_formatiranje.md
       - Елемент div: webd/02/div.md
       - Табеле: webd/02/10_tabele.md
+    - JS:
+      - fetch примери: webd/js/fetch.md
+    - Блок настава:
+      - Задатак за блок наставу: webd/blok.md
   - UI UX Design:
     - Добродошли: uiux/index.md
     - Увод у UI/UX дизајн:
@@ -158,6 +164,9 @@ nav:
     - Добродошли: ai/index.md
     - Увод у вештачку интелигенцију:
       - Припрема за први тест: ai/01/01_uvod.md
+      - Sentiment Analysis: ai/ml.net/sentiment.md
+      - Препознавање SPAM SMS-а: ai/ml.net/spam.md
+      - Задатак за блок наставу из ПИТ: ai/blok/blok.md
   - InfoSec:
     - Добродошли: infosec/index.md
     - DES:
@@ -243,4 +252,3 @@ extra:
 extra_javascript:
   - js/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
