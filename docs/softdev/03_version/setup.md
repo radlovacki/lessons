@@ -53,7 +53,7 @@ git config --global core.editor "'C:\Program Files\Microsoft VS Code\Code.exe' -
 ## Подразумевана грана
 
 Када креираш нови репозиторијум, Git ће подразумевано да направи главну грану
-под именом `master`. То име можеш да промениш, на пример у `main`.
+под именом `master`. То име можеш да измениш, на пример у `main`.
 
 ``` bash
 git config --global init.defaultBranch main

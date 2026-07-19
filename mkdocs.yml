@@ -182,6 +182,8 @@ nav:
     - Контрола верзија и сарадња:
       - Иницијална подешавања: softdev/03_version/setup.md
       - Креирање репозиторијума: softdev/03_version/init.md
+      - Чување измена у репозиторијуму: softdev/03_version/commit.md
+      - Чување измена на постојећим фајловима: softdev/03_version/commit2.md
 
 markdown_extensions:
   - attr_list
