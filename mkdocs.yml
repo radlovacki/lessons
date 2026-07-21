@@ -183,7 +183,9 @@ nav:
       - Иницијална подешавања: softdev/03_version/setup.md
       - Креирање репозиторијума: softdev/03_version/init.md
       - Чување измена у репозиторијуму: softdev/03_version/commit.md
-      - Чување измена на постојећим фајловима: softdev/03_version/commit2.md
+      - Чување измена на постојећим фајловима: softdev/03_version/commita.md
+      - Уклањање и премештање фајлова: softdev/03_version/rmmv.md
+      - Игнорисање фајлова: softdev/03_version/ignore.md
 
 markdown_extensions:
   - attr_list
