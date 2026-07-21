@@ -33,7 +33,7 @@ git config --global user.email johndoe@teslavs.edu.rs
 
 Након тога, потребно је да подесиш едитор који ћеш користити. Ако ово не
 урадиш, Git ће користити подразумевани текст едитор у оперативном систему
-(нпр. Notepad).
+(нпр. *Notepad*).
 
 ``` bash
 git config --global core.editor "code --wait"

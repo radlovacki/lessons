@@ -40,11 +40,10 @@ git diff
 
 ``` text
 diff --git a/README.md b/README.md
-index c585249..96cfca6 100644
+index 4647d47..f69f6e9 100644
 --- a/README.md
 +++ b/README.md
-@@ -1,5 +1,9 @@
- # Правоуглу троугао
+@@ -2,4 +2,9 @@
 
  Веб апликација за рачунање треће странице, обима и површине правоуглог
  троугла помоћу Питагорине теореме.
@@ -54,6 +53,7 @@ index c585249..96cfca6 100644
 +Смер: Техничар информационих технологија
 +Одељење: III2
 +Ученик: John Doe
++
 ```
 
 Линије које почињу знаком `-` су линије које су уклоњене, линије које почињу
@@ -98,7 +98,7 @@ git commit -m "Dodati podaci o učeniku"
 ...што ће резултирати поруком:
 
 ``` text
-[master b544402] Dodati podaci o učeniku
+[master 8bfa4c1] Dodati podaci o učeniku
  1 file changed, 6 insertions(+), 1 deletion(-)
 ```
 
@@ -122,7 +122,7 @@ git commit -a -m "Dodat novi meta element"
 ...што ће резултирати поруком:
 
 ``` text
-[master ce821d0] Dodat novi meta element
+[master b15e3fb] Dodat novi meta element
  1 file changed, 1 insertion(+)
 ```
 

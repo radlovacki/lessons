@@ -8,7 +8,7 @@
 ## Иницијализација новог репозиторијума
 
 Нека је задатак да у директоријуму `C:\Projekti\` креираш нови пројекат
-`Geometrija`.
+`Pitagora`.
 
 Када покренеш конзолу тј. терминал (*Command Prompt* или *PowerShell*), обично
 ће активни директоријум бити твој кориснички директоријум, на пример...
@@ -36,16 +36,16 @@ PS C:\Users\johndoe>
 cd C:\Projekti
 ```
 
-...у њему креираш нови директоријум `Geometrija`...
+...у њему креираш нови директоријум `Pitagora`...
 
 ``` text
-mkdir Geometrija
+mkdir cd C:\Pitagora
 ```
 
-...позиционираш се у директоријум `Geometrija`...
+...позиционираш се у директоријум `Pitagora`...
 
 ``` text
-cd Geometrija
+cd Pitagora
 ```
 
 ...и на крају иницијализујеш Git репозиторијум:
@@ -59,7 +59,7 @@ git init
 бити и написано у поруци:
 
 ``` text
-Initialized empty Git repository in C:/Projekti/Geometrija/.git/
+Initialized empty Git repository in C:/Projekti/Pitagora/.git/
 ```
 
 Можеш и да провериш да ли је репозиторијум успешно иницијализован командом:
@@ -91,13 +91,13 @@ cd C:\Projekti
 ...и онда извршиш команду `git clone <url>`, на пример:
 
 ``` bash
-git clone https://github.com/radlovacki/geometrija
+git clone https://github.com/radlovacki/pitagora
 ```
 
-Git ће исписати поруку о току преузимања, на пример:
+Git ће исписати поруку о току преузимања попут ове:
 
 ``` text
-Cloning into 'geometrija'...
+Cloning into 'pitagora'...
 remote: Enumerating objects: 12, done.
 remote: Counting objects: 100% (12/12), done.
 remote: Compressing objects: 100% (10/10), done.
@@ -115,9 +115,9 @@ Receiving objects: 100% (12/12), done.
 именом, треба да наведеш ново име након претходне команде, на пример:
 
 ``` bash
-git clone https://github.com/radlovacki/geometrija Trouglovi
+git clone https://github.com/radlovacki/pitagora Trougao
 ```
 
 > **Напомена:** URL репозиторијума не мора да буде само у HTTPS формату (као у
 > примерима изнад) - може бити и SSH формату (нпр.
-> `git@github.com:radlovacki/geometrija.git`), о чему ћеш учити касније.
+> `git@github.com:radlovacki/pitagora.git`), о чему ћеш учити касније.

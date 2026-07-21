@@ -10,14 +10,14 @@
 
 ## Уклањање фајлова
 
-Нека је задатак да из пројекта `Geometrija` уклониш фајл `komentari.md` којег
+Нека је задатак да из пројекта `Pitagora` уклониш фајл `komentari.md` којег
 је креирао наставник након прегледа твог претходног задатка.
 
 Ако фајл обришеш помоћу фајл менаџера или командом `del`, Git ће то приметити,
 али промену нећеш моћи одмах да комитујеш - прво ћеш морати да је стejџујеш,
 исто као и сваку другу промену:
 
-``` text hl_lines="3"
+``` text hl_lines="5"
 On branch master
 Changes not staged for commit:
   (use "git add/rm <file>..." to update what will be committed)
@@ -37,7 +37,7 @@ git rm komentari.md
 Ова команда истовремено брише фајл са диска и стejџује ту промену, након чега
 ће `git status` приказати:
 
-``` text hl_lines="3"
+``` text hl_lines="4"
 On branch master
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
@@ -68,8 +68,16 @@ git commit -m "Uklonjene beleske"
 ```
 
 Овом командом фајл `beleske.txt` остаје нетакнут на диску, али га Git више не
-прати. Од следећег комита надаље, Git ће га третирати као да уопште не постоји
-у репозиторијуму (сматраће га нестejџованим фајлом).
+прати.
+
+``` text hl_lines="4"
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        beleske.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+```
 
 > **Напомена:** Ако желиш да фајл убудуће Git трајно игнорише (да га
 > `git status` уопште не пријављује), потребно је да га наведеш у `.gitignore`
@@ -106,6 +114,10 @@ Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
         renamed:    script.js -> scripts/script.js
         renamed:    styles.css -> styles/styles.css
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        beleske.txt
 ```
 
 Обе промене су аутоматски стejџоване и припремљене за комит, исто као код

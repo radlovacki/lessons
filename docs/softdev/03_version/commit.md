@@ -1,6 +1,6 @@
 # Чување измене у репозиторијуму
 
-Нека је задатак да у репозиторијуму `Geometrija` креираш малу веб апликацију
+Нека је задатак да у репозиторијуму `Pitagora` креираш малу веб апликацију
 (HTML, CSS и JS) за рачунање треће странице, обима и површине правоуглог
 троугла помоћу Питагорине теореме.
 
@@ -15,11 +15,11 @@
 John Doe
 ```
 
-Креирај тај фајл и сачувај га у репозиторијум `Geometrija`. Ако сада извршиш
+Креирај тај фајл и сачувај га у репозиторијум `Pitagora`. Ако сада извршиш
 `git status` команду, Git ће исписати поруку да у репозиторијуму постоји фајл
 који се тренутно не прати:
 
-``` text hl_lines="5 7"
+``` text hl_lines="7"
 On branch master
 
 No commits yet
@@ -42,7 +42,7 @@ git add README.md
 Ако сада извршиш `git status` команду, Git ће исписати поруку да је у
 репозиторијум додат нови фајл који треба да се комитује:
 
-``` text hl_lines="5 7"
+``` text hl_lines="7"
 On branch master
 
 No commits yet
@@ -123,8 +123,8 @@ git commit -m "Prvo komitovanje fajlova u repozitorijum"
 ...где ће Git исписати следећу поруку:
 
 ``` text
-[master (root-commit) d1da96d] Prvo komitovanje fajlova u repozitorijum
- 4 files changed, 205 insertions(+)
+[master (root-commit) 92c9c2c] Prvo komitovanje fajlova u repozitorijum
+ 4 files changed, 206 insertions(+)
  create mode 100644 README.md
  create mode 100644 index.html
  create mode 100644 script.js
