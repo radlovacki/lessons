@@ -179,6 +179,8 @@ nav:
     - Процес развоја софтвера:
       - Увод: softdev/01_proces/00_uvod.md
       - Увод: softdev/01_proces/01_uvod.md
+    - Техничка документација:
+      - Дефиниција техничке документације: softdev/02_techdoc/definicija.md
     - Контрола верзија и сарадња:
       - Иницијална подешавања: softdev/03_version/setup.md
       - Креирање репозиторијума: softdev/03_version/init.md
