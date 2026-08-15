@@ -177,8 +177,8 @@ nav:
   - Развој софтверских пројеката:
     - Добродошли: softdev/index.md
     - Процес развоја софтвера:
-      - Увод: softdev/01_proces/00_uvod.md
-      - Увод: softdev/01_proces/01_uvod.md
+      - Увод у наставни предмет: softdev/01_proces/uvod.md
+      - Софтвер као производ и појам квалитета: softdev/01_proces/proizvod.md
     - Техничка документација:
       - Дефиниција техничке документације: softdev/02_techdoc/definicija.md
     - Контрола верзија и сарадња:
