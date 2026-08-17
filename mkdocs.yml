@@ -179,6 +179,11 @@ nav:
     - Процес развоја софтвера:
       - Увод у наставни предмет: softdev/01_proces/uvod.md
       - Софтвер као производ и појам квалитета: softdev/01_proces/proizvod.md
+      - Чланови развојног тима и њихове улоге: softdev/01_proces/tim.md
+      - Ограничења при развоју софтвера: softdev/01_proces/ogranicenja.md
+      - Животни циклус и фазе развоја софтвера: softdev/01_proces/sdlc.md
+      - Модели животног циклуса развоја софтвера: softdev/01_proces/modeli.md
+      - Агилна методологија Scrum: softdev/01_proces/scrum.md
     - Техничка документација:
       - Дефиниција техничке документације: softdev/02_techdoc/definicija.md
     - Контрола верзија и сарадња:
