@@ -184,6 +184,7 @@ nav:
       - Животни циклус и фазе развоја софтвера: softdev/01_proces/sdlc.md
       - Модели животног циклуса развоја софтвера: softdev/01_proces/modeli.md
       - Агилна методологија Scrum: softdev/01_proces/scrum.md
+      - Симулација развоја пројекта Scrum приступом: softdev/01_proces/scrum-proj.md
     - Техничка документација:
       - Дефиниција техничке документације: softdev/02_techdoc/definicija.md
     - Контрола верзија и сарадња:
