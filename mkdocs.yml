@@ -117,6 +117,7 @@ nav:
       - Инлајн стилизација елемената: webd/02/08_style.md
       - Форматирање текста: webd/02/09_formatiranje.md
       - Елемент div: webd/02/div.md
+      - Бокс модел: webd/02/boxmodel.md
       - Табеле: webd/02/10_tabele.md
     - JS:
       - fetch примери: webd/js/fetch.md
