@@ -188,6 +188,10 @@ nav:
       - Симулација развоја пројекта Scrum приступом: softdev/01_proces/scrum-proj.md
     - Техничка документација:
       - Дефиниција техничке документације: softdev/02_techdoc/definicija.md
+      - Основно форматирање Markdown докумената: softdev/02_techdoc/markdown.md
+      - Запис математичких израза: softdev/02_techdoc/latex.md
+      - Језик за моделовање система UML: softdev/02_techdoc/uvoduml.md
+      - Израда дијаграма тока: softdev/02_techdoc/flowchart.md
     - Контрола верзија и сарадња:
       - Иницијална подешавања: softdev/03_version/setup.md
       - Креирање репозиторијума: softdev/03_version/init.md
