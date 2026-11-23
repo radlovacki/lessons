@@ -119,6 +119,7 @@ nav:
       - Елемент div: webd/02/div.md
       - Бокс модел: webd/02/boxmodel.md
       - Табеле: webd/02/10_tabele.md
+      - Распоређивање елемената: webd/02/layout.md
     - JS:
       - fetch примери: webd/js/fetch.md
     - Блок настава:
