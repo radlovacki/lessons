@@ -193,6 +193,7 @@ nav:
       - Запис математичких израза: softdev/02_techdoc/latex.md
       - Језик за моделовање система UML: softdev/02_techdoc/uvoduml.md
       - Израда дијаграма тока: softdev/02_techdoc/flowchart.md
+      - Припрема за контролни: softdev/02_techdoc/markdown-algoritam.md
     - Контрола верзија и сарадња:
       - Иницијална подешавања: softdev/03_version/setup.md
       - Креирање репозиторијума: softdev/03_version/init.md
