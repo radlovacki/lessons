@@ -1,0 +1,9 @@
+.naslovi {
+    color: darkblue;
+    text-align: center;
+}
+
+#mdnlink {
+    border: 1px solid black;
+    font-style: italic;
+}
