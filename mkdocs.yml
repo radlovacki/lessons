@@ -98,6 +98,10 @@ nav:
       - Приоритет оператора: prog3/07/prioritet_operatora.md
     - Блок настава:
       - Задатак за блок наставу из ПИТ: prog3/blok/zadatak.md
+  - Programming 1:
+    - Добродошли: prog4/index.md
+    - Базе података:
+      - A01: prog4/05/A01.md
   - Web Design:
     - Добродошли: webd/index.md
     - Увод у веб дизајн:
