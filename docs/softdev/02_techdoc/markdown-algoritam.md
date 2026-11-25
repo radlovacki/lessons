@@ -32,14 +32,14 @@ $$P = \frac{a \cdot b}{2}$$
 
 ```mermaid
 flowchart TD
-    Start([Start]) --> Unos[\int a, b/]
+    Start([Start]) --> Unos[\double a, b/]
     Unos --> Tip{scanf != 2}
     Tip -- Da --> GreskaTip[/Greska! Nisu dva realna broja!\]
     GreskaTip --> GreskaKraj([Stop: return 1])
     Tip -- Ne --> Pozitivni{a <= 0 OR b <= 0}
     Pozitivni -- Da --> GreskaPoz[/Greska! Nisu veci od nule!\]
     GreskaPoz --> GreskaKraj
-    Pozitivni -- Ne --> Racun[c=sqrt_a*a+b*b<br>O=a+b+c<br>P=ab/2]
+    Pozitivni -- Ne --> Racun[double c=sqrt_a*a+b*b<br>double O=a+b+c<br>double P=ab/2]
     Racun --> Ispis[/c, O, P\]
     Ispis --> Stop([Stop: return 0])
 ```
@@ -67,7 +67,7 @@ int main(void)
     }
     c = sqrt(a * a + b * b);
     O = a + b + c;
-    P = (a * b) / 2.0;
+    P = (a * b) / 2;
     printf("c = %.4lf, O = %.4lf, P = %.4lf", c, O, P);
     return 0;
 }
